@@ -93,7 +93,7 @@ Tiantian Liu is a Ph.D. at Zhejiang University, under the supervision of Profess
 
 # 📖 Educations
 - **Ph.D. in Computer Science and Technology**, Zhejiang University  
-  *Sep. 2020 – Jun. 2025 (expected)*  
+  *Sep. 2020 – Jun. 2025*  
   Advised by Prof. Feng Lin and Prof. Kui Ren  
 - **B.E. in Information Science and Electrical Engineering**, Zhejiang University  
   *Sep. 2016 – Jun. 2020*  
