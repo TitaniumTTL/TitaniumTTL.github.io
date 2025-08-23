@@ -20,7 +20,7 @@ Tiantian Liu is a Ph.D. at Zhejiang University, under the supervision of Profess
 
 # 🔥 News
 - 2024, EECS Rising Star
-- 2024,USENIX Security Grants
+- 2024, USENIX Security Grants
 - 2023, IEEE S&P Travel Grants, 
 - 2023, Sigmobile Research Highlight
 - 2021, Best Paper Award Nomination
@@ -28,7 +28,7 @@ Tiantian Liu is a Ph.D. at Zhejiang University, under the supervision of Profess
 # 📝 Publications
 
 - **Eguard: Mitigating Privacy Risks in LLM Embeddings from Embedding Inversion.** (on submission)  
-  *Tiantian Liu, Yao Hongwei, Tong Wu, Qin Zhan, Feng Lin, Kui Ren, and Chun Chen*
+  *Tiantian Liu, Yao Hongwei, Tong Wu, Qin Zhan, Feng Lin, and Kui Ren*
 
 - **[USENIX'24] MicGuard: A Comprehensive Detection System against Out-of-band Injection Attacks for Different Level Microphone-based Devices.**  
   *Tiantian Liu, Feng Lin, Zhongjie Ba, Li Lu, Zhan Qin, Kui Ren*  
