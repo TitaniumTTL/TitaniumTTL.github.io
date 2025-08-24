@@ -96,7 +96,7 @@ Tiantian Liu will join Xiamen University as an Assistant Professor in Fall 2025,
 - **Second Prize**, Final of National Artificial Intelligence Innovation Application Competition, 2021  
 
 # 📖 Educations
-- **Ph.D. in Computer Science and Technology**, Zhejiang University  
+- **Ph.D. in Cyberspace Security**, Zhejiang University  
   *Sep. 2020 – Jun. 2025*  
   Advised by Prof. Feng Lin and Prof. Kui Ren  
 - **B.E. in Information Engineering**, Zhejiang University  
