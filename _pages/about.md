@@ -16,14 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Tiantian Liu is a Ph.D. at Zhejiang University, under the supervision of Professor Kui Ren (Dean) and Professor Feng Lin. She has published 11 papers in the fields of cybersecurity and wireless computing, including IEEE S&P, USENIX Security, TDSC, INFOCOM, ACM MobiCom, UIST, SenSys, and TOSN. She has received the Best Paper Candidate Award and SIGMOBILE Research Highlight (the first from Chinese universities) and was named an EECS Rising Star 2024 by MIT (the first from Chinese universities). She is also a reviewer for several prestigious journals and conferences, including IEEE TIFS, TDSC, TMC, Ubicomp, PeerJ, and IoTJ. Her primary research interests include intelligent IoT and multimodality, such as cross-modal enhanced voice authentication and recognition, as well as IoT security, with a focus on voice interaction security and large language model security.
+Tiantian Liu will join Xiamen University as an Assistant Professor in Fall 2025, collaborating with Professor Liang Xiao. Tiantian Liu is a Ph.D. at Zhejiang University, under the supervision of Professor Kui Ren (Dean) and Professor Feng Lin. She has published 11 papers in the fields of cybersecurity and wireless computing, including IEEE S&P, USENIX Security, TDSC, INFOCOM, ACM MobiCom, UIST, SenSys, and TOSN. She has received the Best Paper Candidate Award and SIGMOBILE Research Highlight (the first from Chinese universities) and was named an EECS Rising Star 2024 by MIT (the first from Chinese universities). She is also a reviewer for several prestigious journals and conferences, including IEEE TIFS, TDSC, TMC, Ubicomp, PeerJ, and IoTJ. Her primary research interests include intelligent IoT and multimodality, such as cross-modal enhanced voice authentication and recognition, as well as IoT security, with a focus on voice interaction security and large language model security.
 
 # 🔥 News
 - 2024, EECS Rising Star
 - 2024, USENIX Security Grants
-- 2023, IEEE S&P Travel Grants, 
+- 2023, IEEE S&P Travel Grants 
 - 2023, Sigmobile Research Highlight
-- 2021, Best Paper Award Nomination
+- 2021, Best Paper Award Nomination in SenSys
 
 # 📝 Publications
 
@@ -99,5 +99,5 @@ Tiantian Liu is a Ph.D. at Zhejiang University, under the supervision of Profess
 - **Ph.D. in Computer Science and Technology**, Zhejiang University  
   *Sep. 2020 – Jun. 2025*  
   Advised by Prof. Feng Lin and Prof. Kui Ren  
-- **B.E. in Information Science and Electrical Engineering**, Zhejiang University  
+- **B.E. in Information Engineering**, Zhejiang University  
   *Sep. 2016 – Jun. 2020*  
