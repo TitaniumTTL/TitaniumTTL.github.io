@@ -87,7 +87,7 @@ Tiantian Liu will join Xiamen University as an Assistant Professor in Fall 2025,
   _IEEE Transactions on Dependable and Secure Computing, 2023_
 
 # 🎖 Honors and Awards
-
+- **ACM SIGSAC China Doctoral Dissertation Awards**, 2025
 - **National Scholarship**, 2024  
 - **EECS Rising Star**, 2024  
 - **USENIX Security Grants**, 2024  
