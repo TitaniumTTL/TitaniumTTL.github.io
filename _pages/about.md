@@ -28,8 +28,8 @@ Tiantian Liu will join Xiamen University as an Assistant Professor in Fall 2025,
 
 # 📝 Publications
 
-- **Eguard: Mitigating Privacy Risks in LLM Embeddings from Embedding Inversion.** (on submission)  
-  *Tiantian Liu, Yao Hongwei, Tong Wu, Qin Zhan, Feng Lin, and Kui Ren*
+- **[AAAI'26] Eguard: Defending LLM Embeddings Against Inversion Attacks via Text Mutual Information Optimization.** (Accepted)  
+  *Tiantian Liu, Yao Hongwei,  Feng Lin, Tong Wu, Qin Zhan, and Kui Ren*
 
 - **[USENIX'24] MicGuard: A Comprehensive Detection System against Out-of-band Injection Attacks for Different Level Microphone-based Devices.**  
   *Tiantian Liu, Feng Lin, Zhongjie Ba, Li Lu, Zhan Qin, Kui Ren*  
