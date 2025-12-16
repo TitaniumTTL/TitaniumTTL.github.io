@@ -54,7 +54,7 @@ Tiantian Liu will join Xiamen University as an Assistant Professor in Fall 2025,
 
 - **[UIST'23] WavoID: Robust and Secure Multi-modal User Identification via mmWave-voice Mechanism**  
   *Tiantian Liu, Feng Lin, Chao Wang, Chenhan Xu, Xiaoyu Zhang, Zhengxiong Li, Wenyao Xu, Ming-chun Huang, Kui Ren*  
-  _Proceedings of the 36th ACM Symposium on User Interface Software and Technology, 2023_ (Accepted)
+  _Proceedings of the 36th ACM Symposium on User Interface Software and Technology (UIST), 2023_ 
 
 - **[TOSN'22] Wavoice: A mmWave-assisted Noise-resistant Speech Recognition System.**  
   *Tiantian Liu, Chao Wang, Zhengxiong Li, Ming-chun Huang, Wenyao Xu, Feng Lin*  
